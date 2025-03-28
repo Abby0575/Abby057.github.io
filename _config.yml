@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jingyi Fang"
+title                    : "Jingyi(Abby) Fang"
 title_separator          : "-"
-name                     : &name "Jingyi Fang"
+name                     : &name "Jingyi(Abby) Fang"
 description              : &description "Computer Science & Material Science student at the University of Minnesota Twin Cities"
 url                      : https://Abby0575.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "Abby0575/Abby0575.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jingyi Fang"
+  name             : "Jingyi(Abby) Fang"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science & Material Science @ UMN | AI for Science Researcher | Software Engineer"
   location         : "Minneapolis, MN"
