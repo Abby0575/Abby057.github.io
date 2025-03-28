@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " Jingyi(Abby)'s Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi there! I'm Abby Fang (Fang Jingyi), a Computer Science and Material Science student at the University of Minnesota Twin Cities. I’m currently actively seeking **Software Development Engineer (SDE)** and **Machine Learning Engineer (MLE)** positions. I was supervised by Prof. Yanlin Huang from College of Material Science and Chemistry, Chemical Engineering of Soochow University. And now
+I'm being supervised by Prof. Chris Bartel of College of Science and Engineering of University of Minnesota Twin Cities and incoming Prof. Nathan Szymanski. 
+
+My research interests now lie in **large language model (LLM) agents**, **retrieval-augmented generation (RAG)**, **AI for science**, and **machine learning**. I'm also open to discuss with any other topics in the field of AI!
+
+Feel free to explore and reach out!
 
 A data-driven personal website
 ======
