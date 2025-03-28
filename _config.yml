@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jingyi Fang"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science & Material Science @ UMN | AI for Science Researcher"
+  bio              : "Computer Science & Material Science @ UMN | AI for Science Researcher | Software Engineer"
   location         : "Minneapolis, MN"
   employer         : "University of Minnesota Twin Cities"
   uri              : "https://Abby0575.github.io"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "fang0575"
+  github           : "https://github.com/Abby0575"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
