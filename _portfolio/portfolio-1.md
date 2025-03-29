@@ -1,6 +1,6 @@
 ---
 title: "Paper Retrieve System"
-excerpt: "[Paper Agent]（https://github.com/Abby0575/https---github.com-Abby0575-paper_agent）<br/><img src='/images/500x300.png'>"
+excerpt: "<a href='https://github.com/Abby0575/https---github.com-Abby0575-paper_agent' target='_blank'>Paper Agent</a><br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
