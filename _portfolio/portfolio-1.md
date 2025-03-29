@@ -1,5 +1,5 @@
 ---
-title: "Paper retrieve system"
+title: "Paper Retrieve System"
 excerpt: "[Paper Agent]（https://github.com/Abby0575/https---github.com-Abby0575-paper_agent）<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
