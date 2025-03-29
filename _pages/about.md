@@ -42,3 +42,12 @@ Skills and Certificates
 Feel free to leave a message, ask a question, or just say hi 👋
 
 <div id="utterances-thread"></div>
+
+<script src="https://utteranc.es/client.js"
+        repo="Abby0575/abby0575.github.io"
+        issue-term="pathname"
+        label="💬 comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
