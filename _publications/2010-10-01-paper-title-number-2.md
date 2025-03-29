@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "A comparative study of spectral and luminescent properties of Eu³⁺-doped cation-deficient perovskite phosphors"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2024-04-05
+venue: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
+slidesurl: 'https://doi.org/10.1016/j.saa.2024.123890'
+paperurl: 'https://doi.org/10.1016/j.saa.2024.123890'
+citation: 'Xiang, C., Fang, J., Huang, Y., Zheng, Z., & Seo, H. J. (2024). A comparative study of spectral and luminescent properties of Eu³⁺-doped cation-deficient perovskite phosphors. *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy*, 310, 123890. https://doi.org/10.1016/j.saa.2024.123890'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this work, we explored the photoluminescence and structural characteristics of Eu³⁺-doped perovskite phosphors with cation deficiency.
+
+Our study provides a comparative analysis of the spectral features and reveals significant improvement in luminescent efficiency under specific doping conditions. These findings contribute to the development of advanced optical materials for display and lighting technologies.
