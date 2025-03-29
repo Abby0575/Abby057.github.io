@@ -1,6 +1,6 @@
 ---
 title: "Job Search Agent"
-excerpt: excerpt: "<a href='https://github.com/Abby0575/gov_jobs' target='_blank'>Job Agent</a><br/><img src='/images/500x300.png'>"
+excerpt: "<a href='https://github.com/Abby0575/gov_jobs' target='_blank'>Job Agent</a><br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
