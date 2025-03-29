@@ -40,6 +40,7 @@ Skills and Certificates
 
 leave a message
 ------
+## 💬 Leave a Message
 
 Feel free to leave a message, ask a question, or just say hi 👋
 
