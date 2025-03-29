@@ -37,8 +37,6 @@ Skills and Certificates
 4. Databases & Cloud: MongoDB, MySQL, PostgreSQL, AWS, Google Cloud Platform (GCP), Microsoft Azure
 
 
-Leave a message
-------
 ## 💬 Leave a Message
 
 Feel free to leave a message, ask a question, or just say hi 👋
