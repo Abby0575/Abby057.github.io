@@ -65,8 +65,9 @@ Teaching
   {% endfor %}</ul>
 {%- endcomment -%}
   
-Service and leadership
-======
-* AI researcher in CAMEL-AI.
-* Software Engineer.
-* Founder of Dingshi Co., Ltd.
+## 🧑‍💼 Service and Leadership
+
+- 🤖 AI researcher at CAMEL-AI
+- 💻 Software Engineer
+- 🏢 Founder of Dingshi Co., Ltd.
+
