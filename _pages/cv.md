@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Minnesota Twin Cities, 2025
 
+<!--
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2025: Coming soon
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -31,15 +30,18 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+-->
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages：
+  * Python, Java, C/C++, C#, Kotlin, TypeScript, PHP, HTML, CSS, JavaScript, Bash/Shell, SQL
+* Frameworks & Libraries：
+  * React, Vue, Angular, Next.js, Node.js, Express.js, SpringBoot, Django, Flask, FastAPI, .NET
+* Tools & Platforms：
+  * Git, Jenkins (CI/CD), Docker, Kubernetes (K8s), Redis, Kafka, Elasticsearch, Unix/Linux
+* Databases & Cloud: 
+  * MongoDB, MySQL, PostgreSQL, AWS, Google Cloud Platform (GCP), Microsoft Azure
 
 Publications
 ======
@@ -65,4 +67,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* AI researcher in CAMEL-AI.
+* Software Engineer.
+* Founder of Dingshi Co., Ltd.
